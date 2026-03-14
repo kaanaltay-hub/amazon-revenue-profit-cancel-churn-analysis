@@ -1,6 +1,9 @@
 # Amazon Sales Data Analysis  
 ### Multi-Page Power BI Dashboard for Revenue, Profitability, and Cancellation Root Cause Analysis
 
+## Dashboard Preview
+![Dashboard Preview](amazon-revenue-profit-cancel-churn-analysis/images/home.png)
+
 This project presents an end-to-end **Power BI business intelligence dashboard** built to analyze Amazon sales performance from multiple decision-making angles.  
 The dashboard goes beyond standard sales reporting by combining **revenue analysis**, **profitability decomposition**, and **cancellation root cause exploration** into a structured analytical framework.
 
